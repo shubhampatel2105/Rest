@@ -1,0 +1,17 @@
+com\sp\springmvc\dao\AbstractDao.class
+com\sp\springmvc\dao\UserProfileDaoImpl.class
+com\sp\springmvc\service\UserProfileServiceImpl.class
+com\sp\springmvc\model\UserProfile.class
+com\sp\springmvc\model\UserProfileType.class
+com\sp\springmvc\configuration\AppConfig.class
+com\sp\springmvc\configuration\HibernateConfiguration.class
+com\sp\springmvc\dao\UserProfileDao.class
+com\sp\springmvc\dao\UserDaoImpl.class
+com\sp\springmvc\model\User.class
+com\sp\springmvc\controller\AppController.class
+com\sp\springmvc\dao\UserDao.class
+com\sp\springmvc\service\UserServiceImpl.class
+com\sp\springmvc\service\UserProfileService.class
+com\sp\springmvc\configuration\AppInitializer.class
+com\sp\springmvc\converter\RoleToUserProfileConverter.class
+com\sp\springmvc\service\UserService.class
