@@ -42,7 +42,7 @@ public class AppController {
 	 */
 	@RequestMapping(value = { "/", "/list" }, method = RequestMethod.GET)
 	public String listUsers(ModelMap model) {
-
+		System.out.println("Merged Request by PARTH!!!");
 		List<User> users = userService.findAllUsers();
 		model.addAttribute("users", users);
 		return "userslist";
