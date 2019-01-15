@@ -141,6 +141,7 @@ public class AppController {
 
 	/**
 	 * This method will delete an user by it's SSOID value.
+	 This commit will stay
 	 */
 	@RequestMapping(value = { "/delete-user-{ssoId}" }, method = RequestMethod.GET)
 	public String deleteUser(@PathVariable String ssoId) {
